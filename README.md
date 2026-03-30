@@ -1,16 +1,20 @@
-## Hi there 👋
+ # Hi, I'm [Your Name] 👋
+   ### ML Engineer | AI Specialist | Full-Stack Python Developer
+    
+   I build intelligent systems that bridge the gap between complex data and actionable insights. Currently focusing
+      on **Large Language Models (LLMs)** and **Predictive Analytics**.
+         ---
+    
+   ## 🚀 Featured Projects
+    
+  ### 🤖 [Aura AI Companion](https://github.com/your-username/personalized-gpt)
+  *An emotion-aware AI assistant with persistent conversation memory.*
+    - **Tech:** Python, FastAPI, Transformers (LLMs), SQLite, Emotion Classification.
+    - **Current Status:** 🏗️ Implementing "Long-Term Fact Retrieval" (Phase 2 of 4).
+    - **Highlight:** Uses a custom-built personality engine to adapt responses based on user sentiment.
+   
+  ### ⚽ [Football Any-latics Pro](https://github.com/your-username/footbal-anylatics-project)
+  *End-to-end ML pipeline for match predictions and player performance analysis.*
+    - **Tech
 
-<!--
-**krutiktikam/krutiktikam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
