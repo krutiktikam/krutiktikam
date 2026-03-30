@@ -1,4 +1,4 @@
- # Hi, I'm [Your Name] 👋
+ # Hi, I'm krutik tikam 👋
    ### ML Engineer | AI Specialist | Full-Stack Python Developer
     
    I build intelligent systems that bridge the gap between complex data and actionable insights. Currently focusing
