@@ -7,7 +7,7 @@
     
    ## 🚀 Featured Projects
     
-  ### 🤖 [Aura AI Companion]((https://github.com/krutiktikam/personalized-gpt.git))
+  ### 🤖 [Aura AI Companion](https://github.com/krutiktikam/personalized-gpt.git)
   *An emotion-aware AI assistant with persistent conversation memory.*
     - **Tech:** Python, FastAPI, Transformers (LLMs), SQLite, Emotion Classification.
     - **Current Status:** 🏗️ Implementing "Long-Term Fact Retrieval" (Phase 2 of 4).
