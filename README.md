@@ -13,7 +13,7 @@
     - **Current Status:** 🏗️ Implementing "Long-Term Fact Retrieval" (Phase 2 of 4).
     - **Highlight:** Uses a custom-built personality engine to adapt responses based on user sentiment.
    
-  ### ⚽ [Football Any-latics Pro](https://github.com/your-username/footbal-anylatics-project)
+  ### ⚽ [Football Any-latics Pro](https://github.com/krutiktikam/footbal-anylatics-project.git)
   *End-to-end ML pipeline for match predictions and player performance analysis.*
     - **Tech
 
