@@ -13,7 +13,7 @@ I build intelligent systems that bridge the gap between complex data and actiona
 - **ML Edge:** Integrated **K-Means Clustering** for automated archetype discovery (1025+ Pokémon) and **Cosine Similarity** for statistical alternative recommendations.
 - **Highlight:** Unified dashboard visualizing "Power Creep" trends using **Recharts (D3)** and a custom ETL pipeline for automated data extraction.
 
-### 📈 [PokéMarket: Institutional TCG Terminal](https://github.com/krutiktikam/Poke-stocks)
+### 📈 [PokéMarket: Institutional TCG Terminal](https://github.com/krutiktikam/poke-hodl)
 *An institutional-grade market discovery terminal for Pokémon TCG assets with predictive modeling.*
 - **Tech:** Next.js 15 (App Router), TypeScript, Tailwind CSS, Gemini Vision AI, Tesseract.js.
 - **ML Edge:** Custom **Linear Regression** engines for 30-day price projections and historical interpolation to fill market data gaps.
