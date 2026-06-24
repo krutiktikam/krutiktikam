@@ -23,26 +23,18 @@
 
 ---
 
-| Project | Description | Impact | Tech Stack |
-    | :--- | :--- | :--- | :--- |
-    | **[Blender Robotic Arm Simulation](https://github.com/krutiktikam/blender-robotic-arm-simulation)** | High-
-  fidelity 3D robotic arm simulation controlled programmatically. | Implemented closed-loop trajectory tracking and
-  automatic knuckle contact grasp lock. | Python, Blender API, Control Systems, Physics Baking |
-    | **[Football Any-latics Pro](https://github.com/krutiktikam/footbal-anylatics-project)** | Scalable machine
-  learning pipeline for live sports match predictions and performance metrics. | Ingests live data via automated ETL
-  pipelines for real-time XGBoost probability forecasting. | Python, XGBoost, Streamlit, Pandas, REST APIs |
-    | **[PokéArchitect](https://github.com/krutiktikam/poke-architect)** | Decoupled high-fidelity web platform for
-  strategy building and meta-game heuristics diagnostics. | Features a Scikit-Learn clustering model for archetype
-  discovery and similarity scoring. | FastAPI, React/Vite, PostgreSQL (Supabase), Scikit-Learn |
-    | **[PokéMarket](https://github.com/krutiktikam/Poke-stocks)** | Institutional-grade trading terminal for physical
-  collectibles with market tracking dashboards. | Implemented Gemini Vision AI card scanning pipeline and 30-day
-  linear regression price projections. | Next.js 15, TypeScript, Gemini Vision AI, Supabase, Recharts |
-    | **[OmniMath-Local](https://github.com/krutiktikam/omnimath-backend)** | Enterprise async backend pipeline
-  serving mathematical reasoning and symbolic verification workflows. | Incorporates math-aware semantic search
-  indexing using ChromaDB vector database. | FastAPI, ChromaDB, Pydantic, SymPy |
-    | **[NeuroRehab-BCI](https://github.com/krutiktikam/BCI-MotorImagery-Pipeline)** | End-to-end signal processing
-  and neural network pipeline classifying motor imagery EEG signals. | Achieved real-time inference using EEGNet model
-  and simulated signal streaming via LSL. | PyTorch, EEGNet, LSL (Lab Streaming Layer), FastAPI |
+### 🚀 Key Projects
+
+| Project | Description & Impact | Tech Stack |
+| :--- | :--- | :--- |
+| **[Blender Robotic Arm Simulation](https://github.com/krutiktikam/blender-robotic-arm-simulation)** | High-fidelity 3D robotic arm simulation controlled programmatically. Implemented closed-loop trajectory tracking and automatic knuckle contact grasp lock. | `Python` `Blender API` `Control Systems` `Physics Baking` |
+| **[Football Any-latics Pro](https://github.com/krutiktikam/footbal-anylatics-project)** | Ingests live data via automated ETL pipelines for real-time XGBoost probability forecasting and sports match predictions. | `Python` `XGBoost` `Streamlit` `Pandas` `REST APIs` |
+| **[PokéArchitect](https://github.com/krutiktikam/poke-architect)** | Decoupled high-fidelity web platform featuring a Scikit-Learn clustering model for archetype discovery and similarity scoring. | `FastAPI` `React` `PostgreSQL` `Supabase` `Scikit-Learn` |
+| **[PokéMarket](https://github.com/krutiktikam/Poke-stocks)** | Institutional-grade trading terminal featuring a Gemini Vision AI card scanning pipeline and 30-day linear regression price projections. | `Next.js 15` `TypeScript` `Gemini Vision AI` `Supabase` `Recharts` |
+| **[OmniMath-Local](https://github.com/krutiktikam/omnimath-backend)** | Enterprise async backend pipeline serving mathematical workflows with math-aware semantic search indexing via ChromaDB. | `FastAPI` `ChromaDB` `Pydantic` `SymPy` |
+| **[NeuroRehab-BCI](https://github.com/krutiktikam/BCI-MotorImagery-Pipeline)** | End-to-end signal processing pipeline classifying motor imagery EEG signals using an EEGNet model and LSL streaming simulation. | `PyTorch` `EEGNet` `LSL (Lab Streaming Layer)` `FastAPI` |
+
+---
 
 ### 🛠️ Languages & Tools
 
@@ -59,14 +51,14 @@
       <img src="https://img.shields.io/badge/SQLite-074D5B?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
     </td>
     <td width="50%" valign="top">
-      <h4>🌐 Full-Stack Development</h4>
+      <h4>🌐 Full-Stack & Graphics Engineering</h4>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white" alt="FastAPI" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodesdotjs&logoColor=white" alt="Node" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white" alt="Blender" />
     </td>
   </tr>
 </table>
