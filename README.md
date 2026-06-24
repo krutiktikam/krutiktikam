@@ -1,52 +1,72 @@
-# Hi, I'm Krutik Tikam 👋
-### ML Engineer | AI Specialist | Full-Stack Developer
+ # Hi, I'm Krutik Tikam 👋
+    ### Full-Stack Developer · Data Analyst · ML Practitioner
 
-I build intelligent systems that bridge the gap between complex data and actionable insights. My expertise spans **Deep Learning (BCI)**, **Predictive Analytics**, and **AI-integrated Full-Stack Applications**.
+    🟢 Open to Full-Stack Web Development & Data Analytics internships & full-time roles — feel free to reach out!
 
----
+    📍 Mumbai, India  |  📧 krutiktikam7@gmail.com  |  🌐 [linkedin.com/in/krutik-tikam-95339b286](https://www.
+  linkedin.com/in/krutik-tikam-95339b286/)
 
-## 🚀 Featured Projects
+    ---
 
-### 🏛️ [PokéArchitect: Strategy & Analytics Platform](https://github.com/krutiktikam/poke-architect)
-*A professional-grade competitive strategy suite featuring AI-driven role discovery and meta-analytics.*
-- **Tech:** FastAPI (Python), Vite + React, Tailwind CSS, PostgreSQL (Supabase), Scikit-Learn.
-- **ML Edge:** Integrated **K-Means Clustering** for automated archetype discovery (1025+ Pokémon) and **Cosine Similarity** for statistical alternative recommendations.
-- **Highlight:** Unified dashboard visualizing "Power Creep" trends using **Recharts (D3)** and a custom ETL pipeline for automated data extraction.
+    ### 🔭 Currently Building
+    * Asynchronous local RAG applications utilizing ChromaDB and FastAPI.
+    * Real-time automated data collection pipelines for predictive analytics dashboards.
 
-### 📈 [PokéMarket: Institutional TCG Terminal](https://github.com/krutiktikam/poke-hodl)
-*An institutional-grade market discovery terminal for Pokémon TCG assets with predictive modeling.*
-- **Tech:** Next.js 15 (App Router), TypeScript, Tailwind CSS, Gemini Vision AI, Tesseract.js.
-- **ML Edge:** Custom **Linear Regression** engines for 30-day price projections and historical interpolation to fill market data gaps.
-- **Highlight:** Integrated an **AI Scanner** (Computer Vision) for instant asset identification from photos/screenshots and a real-time market pulse dashboard.
+    ### 👨💻 About Me
+    * 🎓 B.Sc. Computer Science (Specialization in Artificial Intelligence & Machine Learning) — Class of 2026.
+    * 🧠 Focus: Engineering robust, decoupled web architectures and building end-to-end data analytics pipelines.
+    * 🎨 Philosophy: Blending data visualization dashboards with responsive, aesthetic frontend interfaces.
+    * 📚 Learning: Advanced vector database indexing, time-series forecasting models, and async system optimization.
 
-### 🧠 [NeuroRehab-BCI: Real-Time EEG Pipeline](https://github.com/krutiktikam/BCI-MotorImagery-Pipeline)
-*End-to-end Brain-Computer Interface (BCI) for classifying Motor Imagery EEG signals.*
-- **Tech:** PyTorch (EEGNet), FastAPI, LSL (Lab Streaming Layer), MOABB.
-- **ML Edge:** Implemented **EEGNet** (Temporal-Spatial Convolution) for high-accuracy 4-class MI classification (Left/Right/Feet/Tongue).
-- **Highlight:** Built a full **hardware simulation suite** using LSL for real-time inference testing without physical EEG hardware.
+    ---
 
-### ⚽ [Football Any-latics Pro](https://github.com/krutiktikam/footbal-anylatics-project)
-*Scalable ML pipeline for live match predictions and performance analytics.*
-- **Tech:** Python, XGBoost, Streamlit, Pandas, API-Football.
-- **Highlight:** Processes live fixture data through an automated ETL pipeline to calculate win probabilities using a pre-trained **XGBoost** model.
+    ### 🚀 Key Projects
 
-### 🏨 [Hotel Booking System](https://github.com/krutiktikam/hotel_website)
-*A modern, full-stack booking platform with a focus on seamless UX and robust data management.*
-- **Tech:** Next.js 15, TypeScript, Tailwind CSS, Better-SQLite3.
-- **Highlight:** Features a real-time availability calendar, automated booking confirmation, and an integrated admin dashboard for reservation management.
+    | Project | Description | Impact | Tech Stack |
+    | :--- | :--- | :--- | :--- |
+    | **Football Any-latics Pro** | Scalable machine learning pipeline for live sports match predictions and
+  performance metrics. | Ingests live data via automated ETL pipelines for real-time XGBoost probability forecasting. |
+  Python, XGBoost, Streamlit, Pandas, REST APIs |
+    | **PokéArchitect** | Decoupled high-fidelity web platform for strategy building and meta-game heuristics
+  diagnostics. | Features a Scikit-Learn clustering model for archetype discovery and similarity scoring. | FastAPI,
+  React/Vite, PostgreSQL (Supabase), Scikit-Learn |
+    | **PokéMarket** | Institutional-grade trading terminal for physical collectibles with market tracking dashboards.
+  Implemented Gemini Vision AI card scanning pipeline and 30-day linear regression price projections. | Next.js 15,
+  TypeScript, Gemini Vision AI, Supabase, Recharts |
+    | **OmniMath-Local** | Enterprise async backend pipeline serving mathematical reasoning and symbolic verification
+  workflows. | Incorporates math-aware semantic search indexing using ChromaDB vector database. | FastAPI, ChromaDB,
+  Pydantic, SymPy |
+    | **NeuroRehab-BCI** | End-to-end signal processing and neural network pipeline classifying motor imagery EEG
+  signals. | Achieved real-time inference using EEGNet model and simulated signal streaming via LSL. | PyTorch, EEGNet,
+  LSL (Lab Streaming Layer), FastAPI |
 
-### 🤖 [Aura AI Companion](https://github.com/krutiktikam/personalized-gpt)
-*An emotion-aware AI assistant with persistent conversation memory.*
-- **Tech:** Python, FastAPI, Transformers (LLMs), SQLite, Emotion Classification.
-- **Current Status:** 🏗️ Implementing "Long-Term Fact Retrieval" (Phase 2 of 4).
-- **Highlight:** Uses a custom-built personality engine to adapt responses based on user sentiment and interaction history.
+    ---
 
----
+    ### 🛠️ Languages & Tools
 
-## 🛠️ Technical Toolkit
+    * **AI/ML:** PyTorch · Scikit-Learn · XGBoost · Transformers · ChromaDB · Gemini Vision AI · OpenCV
+    * **Backend:** FastAPI · Node.js · Express.js · RESTful APIs · SQLAlchemy
+    * **Frontend:** React · Next.js 15 (App Router) · TypeScript · JavaScript · Tailwind CSS · Recharts (D3.js)
+    * **Databases:** PostgreSQL · Supabase · SQLite · Better-SQLite3
+    * **Tools:** Git · Docker · LSL (Signal Processing) · Tesseract.js · VS Code · Postman · Jupyter
 
-- **Languages:** Python (Expert), TypeScript, JavaScript, SQL.
-- **AI/ML:** PyTorch, Scikit-Learn, XGBoost, Transformers (LLMs), Computer Vision (Gemini Vision AI).
-- **Backend:** FastAPI, Node.js (Next.js), PostgreSQL, SQLite, Supabase.
-- **Frontend:** React, Tailwind CSS, Recharts, Framer Motion.
-- **Tools:** Git, Docker, LSL (Signal Processing), Streamlit.
+    ---
+
+    ### 📊 GitHub Analytics
+
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.
+  app/api?username=krutiktikam&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Krutik's GitHub
+  Stats" width="48%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-
+  langs/?username=krutiktikam&layout=compact&theme=radical&hide_border=true" alt="Krutik's Top Languages" width="48%"
+  />
+    </p>
+
+    ---
+
+    ### 🏆 Achievements & Involvement
+    * 🔬 **ML Practitioner** — Certified in TensorFlow & DeepLearning.AI Machine Learning Specialization.
+    * 👥 **Meta Certified** — Front-End Developer Professional Certificate holder.
+    * 📊 **Kaggle** — Active participant sharing ML notebooks and prediction pipelines.
+    * 🌐 **Google Developer Profile** — Active developer building AI-integrated web products.
