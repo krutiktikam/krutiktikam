@@ -23,17 +23,26 @@
 
 ---
 
-### 🚀 Key Projects
-
-| Project | Description & Impact | Tech Stack |
-| :--- | :--- | :--- |
-| **Football Any-latics Pro** | Ingests live data via automated ETL pipelines for real-time XGBoost probability forecasting and sports match predictions. | `Python` `XGBoost` `Streamlit` `Pandas` `REST APIs` |
-| **PokéArchitect** | Decoupled high-fidelity web platform featuring a Scikit-Learn clustering model for archetype discovery and similarity scoring. | `FastAPI` `React` `PostgreSQL` `Supabase` `Scikit-Learn` |
-| **PokéMarket** | Institutional-grade trading terminal featuring a Gemini Vision AI card scanning pipeline and 30-day linear regression price projections. | `Next.js 15` `TypeScript` `Gemini Vision AI` `Supabase` `Recharts` |
-| **OmniMath-Local** | Enterprise async backend pipeline serving mathematical workflows with math-aware semantic search indexing via ChromaDB. | `FastAPI` `ChromaDB` `Pydantic` `SymPy` |
-| **NeuroRehab-BCI** | End-to-end signal processing pipeline classifying motor imagery EEG signals using an EEGNet model and LSL streaming simulation. | `PyTorch` `EEGNet` `LSL (Lab Streaming Layer)` `FastAPI` |
-
----
+| Project | Description | Impact | Tech Stack |
+    | :--- | :--- | :--- | :--- |
+    | **[Blender Robotic Arm Simulation](https://github.com/krutiktikam/blender-robotic-arm-simulation)** | High-
+  fidelity 3D robotic arm simulation controlled programmatically. | Implemented closed-loop trajectory tracking and
+  automatic knuckle contact grasp lock. | Python, Blender API, Control Systems, Physics Baking |
+    | **[Football Any-latics Pro](https://github.com/krutiktikam/footbal-anylatics-project)** | Scalable machine
+  learning pipeline for live sports match predictions and performance metrics. | Ingests live data via automated ETL
+  pipelines for real-time XGBoost probability forecasting. | Python, XGBoost, Streamlit, Pandas, REST APIs |
+    | **[PokéArchitect](https://github.com/krutiktikam/poke-architect)** | Decoupled high-fidelity web platform for
+  strategy building and meta-game heuristics diagnostics. | Features a Scikit-Learn clustering model for archetype
+  discovery and similarity scoring. | FastAPI, React/Vite, PostgreSQL (Supabase), Scikit-Learn |
+    | **[PokéMarket](https://github.com/krutiktikam/Poke-stocks)** | Institutional-grade trading terminal for physical
+  collectibles with market tracking dashboards. | Implemented Gemini Vision AI card scanning pipeline and 30-day
+  linear regression price projections. | Next.js 15, TypeScript, Gemini Vision AI, Supabase, Recharts |
+    | **[OmniMath-Local](https://github.com/krutiktikam/omnimath-backend)** | Enterprise async backend pipeline
+  serving mathematical reasoning and symbolic verification workflows. | Incorporates math-aware semantic search
+  indexing using ChromaDB vector database. | FastAPI, ChromaDB, Pydantic, SymPy |
+    | **[NeuroRehab-BCI](https://github.com/krutiktikam/BCI-MotorImagery-Pipeline)** | End-to-end signal processing
+  and neural network pipeline classifying motor imagery EEG signals. | Achieved real-time inference using EEGNet model
+  and simulated signal streaming via LSL. | PyTorch, EEGNet, LSL (Lab Streaming Layer), FastAPI |
 
 ### 🛠️ Languages & Tools
 
