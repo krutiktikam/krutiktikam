@@ -69,8 +69,8 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krutiktikam&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Krutik's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krutiktikam&layout=compact&theme=radical&hide_border=true" alt="Krutik's Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=krutiktikam&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Krutik's GitHub Stats" width="435" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krutiktikam&layout=compact&theme=radical&hide_border=true" alt="Krutik's Top Languages" width="435" />
 </p>
 
 ---
