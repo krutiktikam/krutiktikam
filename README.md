@@ -34,6 +34,9 @@
 | **[Football Any-latics Pro](https://github.com/krutiktikam/footbal-anylatics-project)** | Automated ETL data ingestion pipeline. Trained XGBoost models computing live match win probabilities within **10.00%** of live market odds. | `Python` `XGBoost` `Streamlit` `PostgreSQL` |
 | **[Aura AI / Personalized-GPT](https://github.com/krutiktikam/personalized-gpt)** | Full-stack AI applications featuring robust architectural designs and continuous integration workflows. Implemented consecutive automated testing via Git/GitHub. | `Python` `GitHub Actions` `CI/CD` `React` |
 | **[PokéArchitect](https://github.com/krutiktikam/poke-architect)** | Decoupled high-fidelity web platform featuring a Scikit-Learn K-Means clustering model for archetype discovery and granular role alignment. | `FastAPI` `React` `PostgreSQL` `Scikit-Learn` |
+| **[FreeLLMAPI](https://github.com/tashfeenahmed/freellmapi)** | Aggregates free tiers from 29 LLM providers offering 4B+ tokens/month across 358 endpoints. Features smart routing, encrypted key storage, and OpenAI-compatible API. | `Node.js` `TypeScript` `React` `SQLite` `Docker` |
+| **[AURA HUD](https://github.com/Krutik-Tikam/ai-companion-device)** | 100% private offline AI HUD with cursor-anchored interface, real-time voice streaming, and local LLM tool execution. Features zero-latency clipboard intelligence and Taui v2/Rust backend. | `Tauri v2` `Rust` `React 18` `FastAPI` `LangChain` `Ollama` `SQLite WAL` |
+| **[Blender MCP](https://github.com/Krutik-Tikam/blender_mcp)** | Lightweight MCP server for Blender providing natural language interface with Blender's Python API for documentation access and complex setup exploration. | `Python` `TCP Socket` `Blender Add-on` |
 
 ---
 
@@ -58,6 +61,12 @@
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
       <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+      <img src="https://img.shields.io/badge/Tauri-%2324C7C7?style=for-the-badge&logo=tauri-app&logoColor=white" alt="Tauri" />
+      <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/LangChain-%2300A8A8?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+      <img src="https://img.shields.io/badge/Ollama-%238257E6?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
     </td>
   </tr>
 </table>
