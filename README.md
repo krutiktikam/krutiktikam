@@ -14,13 +14,13 @@
 
 ### 🔭 Currently Building
 * **Asynchronous local RAG applications** utilizing ChromaDB and FastAPI for math-aware semantic search.
-* **End-to-end signal processing pipelines** for motor imagery EEG classification using PyTorch.
+* **Autonomous agentic workflows and custom API integrations** connecting LLMs to external systems.
 
 ### 👨‍💻 About Me
 * 🎓 **B.Sc. Computer Science** (Specialization in Artificial Intelligence & Machine Learning) — Class of 2026.
-* 🧠 **Focus:** Engineering high-performance, asynchronous REST APIs to serve ML models in production environments.
+* 🧠 **Focus:** Engineering high-performance, asynchronous REST APIs to serve ML models and LLMs in production environments.
 * 🛠️ **Philosophy:** Bridging the gap between theoretical machine learning and robust, decoupled backend architecture.
-* 📚 **Learning:** Advanced vector database indexing, continuous control RL policies, and cloud infrastructure deployment.
+* 📚 **Learning:** Advanced vector database indexing, Model Context Protocol (MCP), and cloud infrastructure deployment.
 
 ---
 
@@ -28,14 +28,13 @@
 
 | Project | Description & Impact | Tech Stack |
 | :--- | :--- | :--- |
-| **[NeuroRehab-BCI](https://github.com/krutiktikam/BCI-MotorImagery-Pipeline)** | End-to-end signal processing pipeline optimizing an EEGNet architecture. Increased validation accuracy from **25.00% to 56.00%** within 10 epochs. | `PyTorch` `EEGNet` `Signal Processing` `Python` |
+| **[AURA HUD](https://github.com/Krutik-Tikam/ai-companion-device)** | 100% private offline AI HUD with cursor-anchored interface, real-time voice streaming, and local LLM tool execution. Features zero-latency clipboard intelligence and Tauri v2/Rust backend. | `Tauri v2` `Rust` `React 18` `FastAPI` `LangChain` `Ollama` `SQLite WAL` |
+| **[Blender MCP](https://github.com/Krutik-Tikam/blender_mcp)** | Lightweight MCP server for Blender providing natural language interface with Blender's Python API for documentation access and complex setup exploration. | `Python` `TCP Socket` `Blender Add-on` `Anthropic MCP` |
 | **[OmniMath-Local](https://github.com/krutiktikam/omni-math)** | Enterprise async backend RAG pipeline. Indexed **12,387 documents** using all-MiniLM-L6-v2 embeddings with optimized 250-chunk asynchronous upsert minibatches. | `FastAPI` `ChromaDB` `Pydantic` `Python` |
-| **[Blender Robotic Arm Simulation](https://github.com/krutiktikam/blender-robotic-arm-simulation)** | Headless continuous-control simulation achieving **700-850 FPS**. Trained PPO reinforcement learning policy across 10,000 timesteps with complex reward functions. | `Python` `PyTorch` `PPO` `OpenAI Gym` |
-| **[Football Any-latics Pro](https://github.com/krutiktikam/footbal-anylatics-project)** | Automated ETL data ingestion pipeline. Trained XGBoost models computing live match win probabilities within **10.00%** of live market odds. | `Python` `XGBoost` `Streamlit` `PostgreSQL` |
-| **[Aura AI / Personalized-GPT](https://github.com/krutiktikam/personalized-gpt)** | Full-stack AI applications featuring robust architectural designs and continuous integration workflows. Implemented consecutive automated testing via Git/GitHub. | `Python` `GitHub Actions` `CI/CD` `React` |
 | **[PokéArchitect](https://github.com/krutiktikam/poke-architect)** | Decoupled high-fidelity web platform featuring a Scikit-Learn K-Means clustering model for archetype discovery and granular role alignment. | `FastAPI` `React` `PostgreSQL` `Scikit-Learn` |
-| **[AURA HUD](https://github.com/Krutik-Tikam/ai-companion-device)** | 100% private offline AI HUD with cursor-anchored interface, real-time voice streaming, and local LLM tool execution. Features zero-latency clipboard intelligence and Taui v2/Rust backend. | `Tauri v2` `Rust` `React 18` `FastAPI` `LangChain` `Ollama` `SQLite WAL` |
-| **[Blender MCP](https://github.com/Krutik-Tikam/blender_mcp)** | Lightweight MCP server for Blender providing natural language interface with Blender's Python API for documentation access and complex setup exploration. | `Python` `TCP Socket` `Blender Add-on` |
+| **[NeuroRehab-BCI](https://github.com/krutiktikam/BCI-MotorImagery-Pipeline)** | End-to-end signal processing pipeline optimizing an EEGNet architecture. Increased validation accuracy from **25.00% to 56.00%** within 10 epochs. | `PyTorch` `EEGNet` `Signal Processing` `Python` |
+| **[Football Any-latics Pro](https://github.com/krutiktikam/footbal-anylatics-project)** | Automated ETL data ingestion pipeline. Trained XGBoost models computing live match win probabilities within **10.00%** of live market odds. | `Python` `XGBoost` `Streamlit` `PostgreSQL` |
+| **[Blender Robotic Arm Simulation](https://github.com/krutiktikam/blender-robotic-arm-simulation)** | Headless continuous-control simulation achieving **700-850 FPS**. Trained PPO reinforcement learning policy across 10,000 timesteps with complex reward functions. | `Python` `PyTorch` `PPO` `OpenAI Gym` |
 
 ---
 
