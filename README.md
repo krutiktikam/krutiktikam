@@ -28,7 +28,7 @@
 
 | Project | Description & Impact | Tech Stack |
 | :--- | :--- | :--- |
-| **[AURA HUD](https://github.com/Krutik-Tikam/ai-companion-device)** | 100% private offline AI HUD with cursor-anchored interface, real-time voice streaming, and local LLM tool execution. Features zero-latency clipboard intelligence and Tauri v2/Rust backend. | `Tauri v2` `Rust` `React 18` `FastAPI` `LangChain` `Ollama` `SQLite WAL` |
+| **[AURA HUD](https://github.com/krutiktikam/AURA-HUD)** | 100% private offline AI HUD with cursor-anchored interface, real-time voice streaming, and local LLM tool execution. Features zero-latency clipboard intelligence and Tauri v2/Rust backend. | `Tauri v2` `Rust` `React 18` `FastAPI` `LangChain` `Ollama` `SQLite WAL` |
 | **[Blender MCP](https://github.com/krutiktikam/Blender-MCP-Server)** | Lightweight MCP server for Blender providing natural language interface with Blender's Python API for documentation access and complex setup exploration. | `Python` `TCP Socket` `Blender Add-on` `Anthropic MCP` |
 | **[OmniMath-Local](https://github.com/krutiktikam/omni-math)** | Enterprise async backend RAG pipeline. Indexed **12,387 documents** using all-MiniLM-L6-v2 embeddings with optimized 250-chunk asynchronous upsert minibatches. | `FastAPI` `ChromaDB` `Pydantic` `Python` |
 | **[PokéArchitect](https://github.com/krutiktikam/poke-architect)** | Decoupled high-fidelity web platform featuring a Scikit-Learn K-Means clustering model for archetype discovery and granular role alignment. | `FastAPI` `React` `PostgreSQL` `Scikit-Learn` |
